@@ -1,0 +1,25 @@
+{
+  "name": "ng-log4sure",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bsurela/ng-log4sure",
+  "authors": [
+    "Bhavin Surela <bsureladev@gmail.com>"
+  ],
+  "description": "Angular wrapper for log4sure",
+  "main": "lib\ng-log4sure.js",
+  "keywords": [
+    "log4sure",
+    "ng-log4sure"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "log4sure": "~0.0.2"
+  }
+}
